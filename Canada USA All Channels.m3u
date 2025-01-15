@@ -2297,6 +2297,8 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418213
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418206
 #EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: YES NETWORK" tvg-logo="https://www.mlbstatic.com/yesnetwork/assets/images/yes_logo.png" group-title="USA SPORTS HD",US: YES NETWORK
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418167
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DraftKings" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Draftkings-logo-vertical.png/revision/latest?cb=20150926011726" group-title="CANADA HD",DraftKings
+https://live571.delivery.roku.com/9f5c2c51-4bc2-4778-9d54-70d48fdae73e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="CANADA HD",CA: A&E
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418411
 #EXTINF:-1 tvg-id="abcwkbw.us" tvg-name="CA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" group-title="CANADA HD",CA: ABC
