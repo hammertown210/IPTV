@@ -1,232 +1,232 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL: NHL NETWORK" tvg-logo="https://i.ibb.co/8XwMMmr/nhl-network-us.png" group-title="NHL",NHL: NHL NETWORK
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL: NHL NETWORK" tvg-logo="https://i.ibb.co/8XwMMmr/nhl-network-us.png" group-title="NHL HD",NHL: NHL NETWORK
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598140
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NHL: ESPN" tvg-logo="https://i.ibb.co/Q8Kc3Rf/nhl-on-espn-us.png" group-title="NHL",NHL: ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NHL: ESPN" tvg-logo="https://i.ibb.co/Q8Kc3Rf/nhl-on-espn-us.png" group-title="NHL HD",NHL: ESPN
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598138
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="NHL: ESPN 2" tvg-logo="https://i.ibb.co/cwjP3GJ/espn2.png" group-title="NHL",NHL: ESPN 2
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="NHL: ESPN 2" tvg-logo="https://i.ibb.co/cwjP3GJ/espn2.png" group-title="NHL HD",NHL: ESPN 2
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598139
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="NHL: TNT" tvg-logo="https://i.ibb.co/4ssqxDN/tnt.png" group-title="NHL",NHL: TNT
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="NHL: TNT" tvg-logo="https://i.ibb.co/4ssqxDN/tnt.png" group-title="NHL HD",NHL: TNT
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598141
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="NHL: TBS" tvg-logo="https://i.ibb.co/rG0kV8R/tbs.png" group-title="NHL",NHL: TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="NHL: TBS" tvg-logo="https://i.ibb.co/rG0kV8R/tbs.png" group-title="NHL HD",NHL: TBS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598142
-#EXTINF:-1 tvg-id="AnaheimDucks.nhl" tvg-name="NHL: ANAHEIM DUCKS" tvg-logo="https://clipartcraft.com/images/anaheim-ducks-logo-original-8.png" group-title="NHL",NHL: ANAHEIM DUCKS
+#EXTINF:-1 tvg-id="AnaheimDucks.nhl" tvg-name="NHL: ANAHEIM DUCKS" tvg-logo="https://clipartcraft.com/images/anaheim-ducks-logo-original-8.png" group-title="NHL HD",NHL: ANAHEIM DUCKS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530956
-#EXTINF:-1 tvg-id="BostonBruins.nhl" tvg-name="NHL: BOSTON BRUINS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Boston-Bruins-logo.png" group-title="NHL",NHL: BOSTON BRUINS
+#EXTINF:-1 tvg-id="BostonBruins.nhl" tvg-name="NHL: BOSTON BRUINS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/05/Boston-Bruins-logo.png" group-title="NHL HD",NHL: BOSTON BRUINS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530958
-#EXTINF:-1 tvg-id="BuffaloSabres.nhl" tvg-name="NHL: BUFFALO SABRES" tvg-logo="https://nhltv.nhl.com/image/240x240/c683b678-b896-4f49-b299-b03280a68301.png?v=20220510210647" group-title="NHL",NHL: BUFFALO SABRES
+#EXTINF:-1 tvg-id="BuffaloSabres.nhl" tvg-name="NHL: BUFFALO SABRES" tvg-logo="https://nhltv.nhl.com/image/240x240/c683b678-b896-4f49-b299-b03280a68301.png?v=20220510210647" group-title="NHL HD",NHL: BUFFALO SABRES
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530959
-#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL: CALGARY FLAMES" tvg-logo="https://nhltv.nhl.com/image/240x240/a47548f1-b3a7-47cd-9841-b345021331a3.png?v=20220510205042" group-title="NHL",NHL: CALGARY FLAMES
+#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL: CALGARY FLAMES" tvg-logo="https://nhltv.nhl.com/image/240x240/a47548f1-b3a7-47cd-9841-b345021331a3.png?v=20220510205042" group-title="NHL HD",NHL: CALGARY FLAMES
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530960
-#EXTINF:-1 tvg-id="CarolinaHurricanes.nhl" tvg-name="NHL: CAROLINA HURRICANES" tvg-logo="https://nhltv.nhl.com/image/240x240/51278437-4d32-4756-b32b-9d391843b38c.png?v=20220510205425" group-title="NHL",NHL: CAROLINA HURRICANES
+#EXTINF:-1 tvg-id="CarolinaHurricanes.nhl" tvg-name="NHL: CAROLINA HURRICANES" tvg-logo="https://nhltv.nhl.com/image/240x240/51278437-4d32-4756-b32b-9d391843b38c.png?v=20220510205425" group-title="NHL HD",NHL: CAROLINA HURRICANES
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530961
-#EXTINF:-1 tvg-id="ChicagoBlackhawks.nhl" tvg-name="NHL: CHICAGO BLACKHAWKS" tvg-logo="https://nhltv.nhl.com/image/240x240/27f9890a-fc5d-4743-95c3-0ce75805467f.png?v=20220510203438" group-title="NHL",NHL: CHICAGO BLACKHAWKS
+#EXTINF:-1 tvg-id="ChicagoBlackhawks.nhl" tvg-name="NHL: CHICAGO BLACKHAWKS" tvg-logo="https://nhltv.nhl.com/image/240x240/27f9890a-fc5d-4743-95c3-0ce75805467f.png?v=20220510203438" group-title="NHL HD",NHL: CHICAGO BLACKHAWKS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530962
-#EXTINF:-1 tvg-id="ColoradoAvalanche.nhl" tvg-name="NHL: COLORADO AVALANCHE" tvg-logo="https://nhltv.nhl.com/image/240x240/b16ac36d-745b-4ee3-b3a5-afbc534264f7.png?v=20220510203249" group-title="NHL",NHL: COLORADO AVALANCHE
+#EXTINF:-1 tvg-id="ColoradoAvalanche.nhl" tvg-name="NHL: COLORADO AVALANCHE" tvg-logo="https://nhltv.nhl.com/image/240x240/b16ac36d-745b-4ee3-b3a5-afbc534264f7.png?v=20220510203249" group-title="NHL HD",NHL: COLORADO AVALANCHE
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530963
-#EXTINF:-1 tvg-id="ColumbusBlueJackets.nhl" tvg-name="NHL: COLUMBUS BLUE JACKETS" tvg-logo="https://nhltv.nhl.com/image/240x240/be47609e-9516-4fdb-b536-324ea4d20db6.png?v=20220510203629" group-title="NHL",NHL: COLUMBUS BLUE JACKETS
+#EXTINF:-1 tvg-id="ColumbusBlueJackets.nhl" tvg-name="NHL: COLUMBUS BLUE JACKETS" tvg-logo="https://nhltv.nhl.com/image/240x240/be47609e-9516-4fdb-b536-324ea4d20db6.png?v=20220510203629" group-title="NHL HD",NHL: COLUMBUS BLUE JACKETS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530964
-#EXTINF:-1 tvg-id="DallasStars.nhl" tvg-name="NHL: DALLAS STARS" tvg-logo="https://nhltv.nhl.com/image/240x240/a9800f70-4fee-4932-b69a-5618b8b419e4.png?v=20220510210825" group-title="NHL",NHL: DALLAS STARS
+#EXTINF:-1 tvg-id="DallasStars.nhl" tvg-name="NHL: DALLAS STARS" tvg-logo="https://nhltv.nhl.com/image/240x240/a9800f70-4fee-4932-b69a-5618b8b419e4.png?v=20220510210825" group-title="NHL HD",NHL: DALLAS STARS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530965
-#EXTINF:-1 tvg-id="DetroitRedWings.nhl" tvg-name="NHL: DETROIT RED WINGS" tvg-logo="https://nhltv.nhl.com/image/240x240/0cca85d5-14fa-41e0-a1b6-e6219ea157aa.png?v=20220510210613" group-title="NHL",NHL: DETROIT RED WINGS
+#EXTINF:-1 tvg-id="DetroitRedWings.nhl" tvg-name="NHL: DETROIT RED WINGS" tvg-logo="https://nhltv.nhl.com/image/240x240/0cca85d5-14fa-41e0-a1b6-e6219ea157aa.png?v=20220510210613" group-title="NHL HD",NHL: DETROIT RED WINGS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530966
-#EXTINF:-1 tvg-id="EdmontonOilers.nhl" tvg-name="NHL: EDMONTON OILERS" tvg-logo="https://nhltv.nhl.com/image/240x240/9142021f-f6f9-4b1e-a24e-ae9024acb3e2.png?v=20220510210333" group-title="NHL",NHL: EDMONTON OILERS
+#EXTINF:-1 tvg-id="EdmontonOilers.nhl" tvg-name="NHL: EDMONTON OILERS" tvg-logo="https://nhltv.nhl.com/image/240x240/9142021f-f6f9-4b1e-a24e-ae9024acb3e2.png?v=20220510210333" group-title="NHL HD",NHL: EDMONTON OILERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530967
-#EXTINF:-1 tvg-id="FloridaPanthers.nhl" tvg-name="NHL: FLORIDA PANTHERS" tvg-logo="https://nhltv.nhl.com/image/240x240/f744c31e-2862-4ebf-8fe9-98bf0feec75f.png?v=20220510210359" group-title="NHL",NHL: FLORIDA PANTHERS
+#EXTINF:-1 tvg-id="FloridaPanthers.nhl" tvg-name="NHL: FLORIDA PANTHERS" tvg-logo="https://nhltv.nhl.com/image/240x240/f744c31e-2862-4ebf-8fe9-98bf0feec75f.png?v=20220510210359" group-title="NHL HD",NHL: FLORIDA PANTHERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530968
-#EXTINF:-1 tvg-id="LosAngelesKings.nhl" tvg-name="NHL: LOS ANGELES KINGS" tvg-logo="https://freepngdesign.com/content/uploads/images/los-angeles-kings-logo-4828.png" group-title="NHL",NHL: LOS ANGELES KINGS
+#EXTINF:-1 tvg-id="LosAngelesKings.nhl" tvg-name="NHL: LOS ANGELES KINGS" tvg-logo="https://freepngdesign.com/content/uploads/images/los-angeles-kings-logo-4828.png" group-title="NHL HD",NHL: LOS ANGELES KINGS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530969
-#EXTINF:-1 tvg-id="MinnesotaWild.nhl" tvg-name="NHL: MINNESOTA WILD" tvg-logo="https://nhltv.nhl.com/image/240x240/7d2f6afa-62f6-4fff-b908-ad9a06802c95.png?v=20220510210857" group-title="NHL",NHL: MINNESOTA WILD
+#EXTINF:-1 tvg-id="MinnesotaWild.nhl" tvg-name="NHL: MINNESOTA WILD" tvg-logo="https://nhltv.nhl.com/image/240x240/7d2f6afa-62f6-4fff-b908-ad9a06802c95.png?v=20220510210857" group-title="NHL HD",NHL: MINNESOTA WILD
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530970
-#EXTINF:-1 tvg-id="MontrealCanadiens.nhl" tvg-name="NHL: MONTRÉAL CANADIENS" tvg-logo="https://nhltv.nhl.com/image/240x240/75180f03-ded7-4fce-a07a-6cb9babec9e2.png?v=20220510204219" group-title="NHL",NHL: MONTRÉAL CANADIENS
+#EXTINF:-1 tvg-id="MontrealCanadiens.nhl" tvg-name="NHL: MONTRÉAL CANADIENS" tvg-logo="https://nhltv.nhl.com/image/240x240/75180f03-ded7-4fce-a07a-6cb9babec9e2.png?v=20220510204219" group-title="NHL HD",NHL: MONTRÉAL CANADIENS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530971
-#EXTINF:-1 tvg-id="NashvillePredators.nhl" tvg-name="NHL: NASHVILLE PREDATORS" tvg-logo="https://nhltv.nhl.com/image/240x240/31c94e45-ef3d-4777-8bb8-93a08f5519cb.png?v=20220510210508" group-title="NHL",NHL: NASHVILLE PREDATORS
+#EXTINF:-1 tvg-id="NashvillePredators.nhl" tvg-name="NHL: NASHVILLE PREDATORS" tvg-logo="https://nhltv.nhl.com/image/240x240/31c94e45-ef3d-4777-8bb8-93a08f5519cb.png?v=20220510210508" group-title="NHL HD",NHL: NASHVILLE PREDATORS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530972
-#EXTINF:-1 tvg-id="NewJerseyDevils.nhl" tvg-name="NHL: NEW JERSEY DEVILS" tvg-logo="https://nhltv.nhl.com/image/240x240/a3a0fb34-228c-45ea-8aa5-aea99e3d1a66.png?v=20220510204730" group-title="NHL",NHL: NEW JERSEY DEVILS
+#EXTINF:-1 tvg-id="NewJerseyDevils.nhl" tvg-name="NHL: NEW JERSEY DEVILS" tvg-logo="https://nhltv.nhl.com/image/240x240/a3a0fb34-228c-45ea-8aa5-aea99e3d1a66.png?v=20220510204730" group-title="NHL HD",NHL: NEW JERSEY DEVILS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530973
-#EXTINF:-1 tvg-id="NewYorkIslanders.nhl" tvg-name="NHL: NEW YORK ISLANDERS" tvg-logo="https://nhltv.nhl.com/image/240x240/8ca722cc-9be4-40d4-ac6c-1d0af662a17a.png?v=20220510205538" group-title="NHL",NHL: NEW YORK ISLANDERS
+#EXTINF:-1 tvg-id="NewYorkIslanders.nhl" tvg-name="NHL: NEW YORK ISLANDERS" tvg-logo="https://nhltv.nhl.com/image/240x240/8ca722cc-9be4-40d4-ac6c-1d0af662a17a.png?v=20220510205538" group-title="NHL HD",NHL: NEW YORK ISLANDERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530974
-#EXTINF:-1 tvg-id="NewYorkRangers.nhl" tvg-name="NHL: NEW YORK RANGERS" tvg-logo="https://nhltv.nhl.com/image/240x240/b0b81fb4-5bde-426f-8ffa-a90564ef09a3.png?v=20220510210540" group-title="NHL",NHL: NEW YORK RANGERS
+#EXTINF:-1 tvg-id="NewYorkRangers.nhl" tvg-name="NHL: NEW YORK RANGERS" tvg-logo="https://nhltv.nhl.com/image/240x240/b0b81fb4-5bde-426f-8ffa-a90564ef09a3.png?v=20220510210540" group-title="NHL HD",NHL: NEW YORK RANGERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530975
-#EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL: OTTAWA SENATORS" tvg-logo="https://nhltv.nhl.com/image/240x240/00187f8c-a28f-4de3-b674-a4cf2adecc84.png?v=20221003141916" group-title="NHL",NHL: OTTAWA SENATORS
+#EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL: OTTAWA SENATORS" tvg-logo="https://nhltv.nhl.com/image/240x240/00187f8c-a28f-4de3-b674-a4cf2adecc84.png?v=20221003141916" group-title="NHL HD",NHL: OTTAWA SENATORS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530976
-#EXTINF:-1 tvg-id="PhiladelphiaFlyers.nhl" tvg-name="NHL: PHILADELPHIA FLYERS" tvg-logo="https://nhltv.nhl.com/image/240x240/de740b39-0d9f-4d0d-bfb4-f1e5f3e60019.png?v=20220510205140" group-title="NHL",NHL: PHILADELPHIA FLYERS
+#EXTINF:-1 tvg-id="PhiladelphiaFlyers.nhl" tvg-name="NHL: PHILADELPHIA FLYERS" tvg-logo="https://nhltv.nhl.com/image/240x240/de740b39-0d9f-4d0d-bfb4-f1e5f3e60019.png?v=20220510205140" group-title="NHL HD",NHL: PHILADELPHIA FLYERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530977
-#EXTINF:-1 tvg-id="PittsburghPenguins.nhl" tvg-name="NHL: PITTSBURGH PENGUINS" tvg-logo="https://nhltv.nhl.com/image/240x240/bb2a8b40-0ff1-498c-93a9-3b1198e03e80.png?v=20220510210437" group-title="NHL",NHL: PITTSBURGH PENGUINS
+#EXTINF:-1 tvg-id="PittsburghPenguins.nhl" tvg-name="NHL: PITTSBURGH PENGUINS" tvg-logo="https://nhltv.nhl.com/image/240x240/bb2a8b40-0ff1-498c-93a9-3b1198e03e80.png?v=20220510210437" group-title="NHL HD",NHL: PITTSBURGH PENGUINS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530978
-#EXTINF:-1 tvg-id="SanJoseSharks.nhl" tvg-name="NHL: SAN JOSE SHARKS" tvg-logo="https://nhltv.nhl.com/image/240x240/b596d0a6-e893-4f02-bcfe-a564203ecabd.png?v=20220510210752" group-title="NHL",NHL: SAN JOSE SHARKS
+#EXTINF:-1 tvg-id="SanJoseSharks.nhl" tvg-name="NHL: SAN JOSE SHARKS" tvg-logo="https://nhltv.nhl.com/image/240x240/b596d0a6-e893-4f02-bcfe-a564203ecabd.png?v=20220510210752" group-title="NHL HD",NHL: SAN JOSE SHARKS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530979
-#EXTINF:-1 tvg-id="SeattleKraken.nhl" tvg-name="NHL: SEATTLE KRAKEN" tvg-logo="https://nhltv.nhl.com/image/240x240/7a5d9534-9736-4bde-b88d-2d08d3a151a8.png?v=20220520115843" group-title="NHL",NHL: SEATTLE KRAKEN
+#EXTINF:-1 tvg-id="SeattleKraken.nhl" tvg-name="NHL: SEATTLE KRAKEN" tvg-logo="https://nhltv.nhl.com/image/240x240/7a5d9534-9736-4bde-b88d-2d08d3a151a8.png?v=20220520115843" group-title="NHL HD",NHL: SEATTLE KRAKEN
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530980
-#EXTINF:-1 tvg-id="StLouisBlues.nhl" tvg-name="NHL: ST. LOUIS BLUES" tvg-logo="https://nhltv.nhl.com/image/240x240/83a005a1-589a-4ec4-8ee7-2a3efdd1a3b7.png?v=20220510203813" group-title="NHL",NHL: ST. LOUIS BLUES
+#EXTINF:-1 tvg-id="StLouisBlues.nhl" tvg-name="NHL: ST. LOUIS BLUES" tvg-logo="https://nhltv.nhl.com/image/240x240/83a005a1-589a-4ec4-8ee7-2a3efdd1a3b7.png?v=20220510203813" group-title="NHL HD",NHL: ST. LOUIS BLUES
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530981
-#EXTINF:-1 tvg-id="TampaBayLightning.nhl" tvg-name="NHL: TAMPA BAY LIGHTNING" tvg-logo="https://nhltv.nhl.com/image/240x240/dbb61d89-014c-4af0-90b2-58af3aba849a.png?v=20221011232102" group-title="NHL",NHL: TAMPA BAY LIGHTNING
+#EXTINF:-1 tvg-id="TampaBayLightning.nhl" tvg-name="NHL: TAMPA BAY LIGHTNING" tvg-logo="https://nhltv.nhl.com/image/240x240/dbb61d89-014c-4af0-90b2-58af3aba849a.png?v=20221011232102" group-title="NHL HD",NHL: TAMPA BAY LIGHTNING
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530982
-#EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL: TORONTO MAPLE LEAFS" tvg-logo="https://nhltv.nhl.com/image/240x240/43338fa0-0f71-471b-8f9d-5cb72866addd.png?v=20220510210249" group-title="NHL",NHL: TORONTO MAPLE LEAFS
+#EXTINF:-1 tvg-id="TorontoMapleLeafs.nhl" tvg-name="NHL: TORONTO MAPLE LEAFS" tvg-logo="https://nhltv.nhl.com/image/240x240/43338fa0-0f71-471b-8f9d-5cb72866addd.png?v=20220510210249" group-title="NHL HD",NHL: TORONTO MAPLE LEAFS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530983
-#EXTINF:-1 tvg-id="UtahHockeyClub.nhl" tvg-name="NHL: UTAH HOCKEY CLUB" tvg-logo="https://content.sportslogos.net/logos/1/6902/full/utah_hockey_club_logo_primary_2025_sportslogosnet-8095.png" group-title="NHL",NHL: UTAH HOCKEY CLUB
+#EXTINF:-1 tvg-id="UtahHockeyClub.nhl" tvg-name="NHL: UTAH HOCKEY CLUB" tvg-logo="https://content.sportslogos.net/logos/1/6902/full/utah_hockey_club_logo_primary_2025_sportslogosnet-8095.png" group-title="NHL HD",NHL: UTAH HOCKEY CLUB
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530957
-#EXTINF:-1 tvg-id="VancouverCanucks.nhl" tvg-name="NHL: VANCOUVER CANUCKS" tvg-logo="https://nhltv.nhl.com/image/240x240/84de288a-56bc-47ea-9b80-01029aa687fd.png?v=20220510204421" group-title="NHL",NHL: VANCOUVER CANUCKS
+#EXTINF:-1 tvg-id="VancouverCanucks.nhl" tvg-name="NHL: VANCOUVER CANUCKS" tvg-logo="https://nhltv.nhl.com/image/240x240/84de288a-56bc-47ea-9b80-01029aa687fd.png?v=20220510204421" group-title="NHL HD",NHL: VANCOUVER CANUCKS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530984
-#EXTINF:-1 tvg-id="VegasGoldenKnights.nhl" tvg-name="NHL: VEGAS GOLDEN KNIGHTS" tvg-logo="https://nhltv.nhl.com/image/240x240/3abf0e8c-231e-405c-89d3-04c2c7958382.png?v=20220510205327" group-title="NHL",NHL: VEGAS GOLDEN KNIGHTS
+#EXTINF:-1 tvg-id="VegasGoldenKnights.nhl" tvg-name="NHL: VEGAS GOLDEN KNIGHTS" tvg-logo="https://nhltv.nhl.com/image/240x240/3abf0e8c-231e-405c-89d3-04c2c7958382.png?v=20220510205327" group-title="NHL HD",NHL: VEGAS GOLDEN KNIGHTS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530985
-#EXTINF:-1 tvg-id="WashingtonCapitals.nhl" tvg-name="NHL: WASHINGTON CAPITALS" tvg-logo="https://nhltv.nhl.com/image/240x240/7ced7d5f-9332-491a-8be9-e1d2aca94dc5.png?v=20220510204523" group-title="NHL",NHL: WASHINGTON CAPITALS
+#EXTINF:-1 tvg-id="WashingtonCapitals.nhl" tvg-name="NHL: WASHINGTON CAPITALS" tvg-logo="https://nhltv.nhl.com/image/240x240/7ced7d5f-9332-491a-8be9-e1d2aca94dc5.png?v=20220510204523" group-title="NHL HD",NHL: WASHINGTON CAPITALS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530986
-#EXTINF:-1 tvg-id="WinnipegJets.nhl" tvg-name="NHL: WINNIPEG JETS" tvg-logo="https://nhltv.nhl.com/image/240x240/f770fb7a-f38b-4872-a35b-5a20b1f22eb6.png?v=20220510205708" group-title="NHL",NHL: WINNIPEG JETS
+#EXTINF:-1 tvg-id="WinnipegJets.nhl" tvg-name="NHL: WINNIPEG JETS" tvg-logo="https://nhltv.nhl.com/image/240x240/f770fb7a-f38b-4872-a35b-5a20b1f22eb6.png?v=20220510205708" group-title="NHL HD",NHL: WINNIPEG JETS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530987
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 00: tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 00: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 00: tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 00: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670057
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 01:" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 01: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 01:" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 01: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670058
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 02: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 02: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 02: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 02: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670059
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 03 :  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 03:
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 03 :  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 03:
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670060
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 04 " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 04 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 04 " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 04 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670061
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 05: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 05: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 05: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 05: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670062
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 06: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 06: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 06: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 06: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670063
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 07: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 07: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 07: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 07: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670064
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 08: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 08: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 08: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 08: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670065
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 09: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 09: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 09: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 09: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670066
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 10: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 10: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 10: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 10: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670067
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 11: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 11: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 11: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 11: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670068
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 12: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 12: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 12: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 12: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670069
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 13:  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 13:
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 13:  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 13:
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670070
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 14:  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 14: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 14:  " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 14: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670071
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 15: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 15: 
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 15: " tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL HD",USA | NHL Game 15: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670072
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL: NFL NETWORK" tvg-logo="http://pluspng.com/img-png/nfl-logo-vector-png-file-nfl-network-logo-svg-wikipedia-the-free-encyclopedia-986.png" group-title="NFL",NFL: NFL NETWORK
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL: NFL NETWORK" tvg-logo="http://pluspng.com/img-png/nfl-logo-vector-png-file-nfl-network-logo-svg-wikipedia-the-free-encyclopedia-986.png" group-title="NFL HD",NFL: NFL NETWORK
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598103
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NFL: ABC" tvg-logo="https://i.ibb.co/nRpS0W2/espn-monday-night-football.png" group-title="NFL",NFL: ABC
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NFL: ABC" tvg-logo="https://i.ibb.co/nRpS0W2/espn-monday-night-football.png" group-title="NFL HD",NFL: ABC
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598104
-#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="NFL: CBS" tvg-logo="https://i.ibb.co/C2cXb0v/cbs-nfl-us.png" group-title="NFL",NFL: CBS
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="NFL: CBS" tvg-logo="https://i.ibb.co/C2cXb0v/cbs-nfl-us.png" group-title="NFL HD",NFL: CBS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598105
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NFL: ESPN" tvg-logo="https://i.ibb.co/nRpS0W2/espn-monday-night-football.png" group-title="NFL",NFL: ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NFL: ESPN" tvg-logo="https://i.ibb.co/nRpS0W2/espn-monday-night-football.png" group-title="NFL HD",NFL: ESPN
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598106
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="NFL: ESPN 2" tvg-logo="https://i.ibb.co/cwjP3GJ/espn2.png" group-title="NFL",NFL: ESPN 2
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="NFL: ESPN 2" tvg-logo="https://i.ibb.co/cwjP3GJ/espn2.png" group-title="NFL HD",NFL: ESPN 2
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598107
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="NFL: FOX" tvg-logo="https://i.ibb.co/6rkt0Kj/fox-nfl-us.png" group-title="NFL",NFL: FOX
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="NFL: FOX" tvg-logo="https://i.ibb.co/6rkt0Kj/fox-nfl-us.png" group-title="NFL HD",NFL: FOX
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598108
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NFL: NBC" tvg-logo="https://i.ibb.co/d238WXK/FNIALogo-fotor-bg-remover-20230811124916.png" group-title="NFL",NFL: NBC
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NFL: NBC" tvg-logo="https://i.ibb.co/d238WXK/FNIALogo-fotor-bg-remover-20230811124916.png" group-title="NFL HD",NFL: NBC
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598109
-#EXTINF:-1 tvg-id="Amazon_Prime_TNF.us" tvg-name="NFL: PRIME - TNF" tvg-logo="https://i.ibb.co/4Y3KSgx/amazon-tnf.png" group-title="NFL",NFL: PRIME - TNF
+#EXTINF:-1 tvg-id="Amazon_Prime_TNF.us" tvg-name="NFL: PRIME - TNF" tvg-logo="https://i.ibb.co/4Y3KSgx/amazon-tnf.png" group-title="NFL HD",NFL: PRIME - TNF
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/598110
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL: NFL RedZone " tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="NFL",NFL: NFL RedZone 
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL: NFL RedZone " tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="NFL HD",NFL: NFL RedZone 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/237124
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RedZone SD" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="NFL",NFL RedZone SD
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RedZone SD" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="NFL HD",NFL RedZone SD
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/237126
-#EXTINF:-1 tvg-id="ArizonaCardinals.nfl" tvg-name="TEAM: NFL ARIZONA CARDINALS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0b1b014aa06286b74887d6403aa60fd.png" group-title="NFL",TEAM: NFL ARIZONA CARDINALS
+#EXTINF:-1 tvg-id="ArizonaCardinals.nfl" tvg-name="TEAM: NFL ARIZONA CARDINALS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0b1b014aa06286b74887d6403aa60fd.png" group-title="NFL HD",TEAM: NFL ARIZONA CARDINALS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534684
-#EXTINF:-1 tvg-id="AtlantaFalcons.nfl" tvg-name="TEAM: NFL ATLANTA FALCONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b174e7b8565eebfa5352081481751e7.png" group-title="NFL",TEAM: NFL ATLANTA FALCONS
+#EXTINF:-1 tvg-id="AtlantaFalcons.nfl" tvg-name="TEAM: NFL ATLANTA FALCONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b174e7b8565eebfa5352081481751e7.png" group-title="NFL HD",TEAM: NFL ATLANTA FALCONS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534685
-#EXTINF:-1 tvg-id="BaltimoreRavens.nfl" tvg-name="TEAM: NFL BALTIMORE RAVENS" tvg-logo="http://onlytimewilltell.xyz:2086/images/c5f7a6e7de7309bd5caf676742d45392.png" group-title="NFL",TEAM: NFL BALTIMORE RAVENS
+#EXTINF:-1 tvg-id="BaltimoreRavens.nfl" tvg-name="TEAM: NFL BALTIMORE RAVENS" tvg-logo="http://onlytimewilltell.xyz:2086/images/c5f7a6e7de7309bd5caf676742d45392.png" group-title="NFL HD",TEAM: NFL BALTIMORE RAVENS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534686
-#EXTINF:-1 tvg-id="BuffaloBills.nfl" tvg-name="TEAM: NFL BUFFALO BILLS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e633e6aec59ec6c5820c693346721df.png" group-title="NFL",TEAM: NFL BUFFALO BILLS
+#EXTINF:-1 tvg-id="BuffaloBills.nfl" tvg-name="TEAM: NFL BUFFALO BILLS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e633e6aec59ec6c5820c693346721df.png" group-title="NFL HD",TEAM: NFL BUFFALO BILLS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534687
-#EXTINF:-1 tvg-id="CarolinaPanthers.nfl" tvg-name="TEAM: NFL CAROLINA PANTHERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f52091bfe0e300b04a9adc553411e8ad.png" group-title="NFL",TEAM: NFL CAROLINA PANTHERS
+#EXTINF:-1 tvg-id="CarolinaPanthers.nfl" tvg-name="TEAM: NFL CAROLINA PANTHERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f52091bfe0e300b04a9adc553411e8ad.png" group-title="NFL HD",TEAM: NFL CAROLINA PANTHERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534688
-#EXTINF:-1 tvg-id="ChicagoBears.nfl" tvg-name="TEAM: NFL CHICAGO BEARS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32bbe5723c27674960bd20292063c73.png" group-title="NFL",TEAM: NFL CHICAGO BEARS
+#EXTINF:-1 tvg-id="ChicagoBears.nfl" tvg-name="TEAM: NFL CHICAGO BEARS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32bbe5723c27674960bd20292063c73.png" group-title="NFL HD",TEAM: NFL CHICAGO BEARS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534689
-#EXTINF:-1 tvg-id="CincinnatiBengals.nfl" tvg-name="TEAM: NFL CINCINNATI BENGALS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a4a2b76ca73d52a8cc0af7fb75dfe17f.png" group-title="NFL",TEAM: NFL CINCINNATI BENGALS
+#EXTINF:-1 tvg-id="CincinnatiBengals.nfl" tvg-name="TEAM: NFL CINCINNATI BENGALS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a4a2b76ca73d52a8cc0af7fb75dfe17f.png" group-title="NFL HD",TEAM: NFL CINCINNATI BENGALS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534690
-#EXTINF:-1 tvg-id="ClevelandBrowns.nfl" tvg-name="TEAM: NFL CLEVELAND BROWNS" tvg-logo="http://onlytimewilltell.xyz:2086/images/472202337280ffdac38610911dd91c69.png" group-title="NFL",TEAM: NFL CLEVELAND BROWNS
+#EXTINF:-1 tvg-id="ClevelandBrowns.nfl" tvg-name="TEAM: NFL CLEVELAND BROWNS" tvg-logo="http://onlytimewilltell.xyz:2086/images/472202337280ffdac38610911dd91c69.png" group-title="NFL HD",TEAM: NFL CLEVELAND BROWNS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534691
-#EXTINF:-1 tvg-id="DallasCowboys.nfl" tvg-name="TEAM: NFL DALLAS COWBOYS" tvg-logo="http://onlytimewilltell.xyz:2086/images/607be19feb324c1e77f5be3308d2c505.png" group-title="NFL",TEAM: NFL DALLAS COWBOYS
+#EXTINF:-1 tvg-id="DallasCowboys.nfl" tvg-name="TEAM: NFL DALLAS COWBOYS" tvg-logo="http://onlytimewilltell.xyz:2086/images/607be19feb324c1e77f5be3308d2c505.png" group-title="NFL HD",TEAM: NFL DALLAS COWBOYS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534692
-#EXTINF:-1 tvg-id="DenverBroncos.nfl" tvg-name="TEAM: NFL DENVER BRONCOS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f35f85a863344ef012d25117ccb29541.png" group-title="NFL",TEAM: NFL DENVER BRONCOS
+#EXTINF:-1 tvg-id="DenverBroncos.nfl" tvg-name="TEAM: NFL DENVER BRONCOS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f35f85a863344ef012d25117ccb29541.png" group-title="NFL HD",TEAM: NFL DENVER BRONCOS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534693
-#EXTINF:-1 tvg-id="DetroitLions.nfl" tvg-name="TEAM: NFL DETROIT LIONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3f735bc44d32869e6543d54fd62d6bb.png" group-title="NFL",TEAM: NFL DETROIT LIONS
+#EXTINF:-1 tvg-id="DetroitLions.nfl" tvg-name="TEAM: NFL DETROIT LIONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3f735bc44d32869e6543d54fd62d6bb.png" group-title="NFL HD",TEAM: NFL DETROIT LIONS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534694
-#EXTINF:-1 tvg-id="GreenBayPackers.nfl" tvg-name="TEAM: NFL GREEN BAY PACKERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/875f0ff643a2db96e9fd46d12f35e2c2.png" group-title="NFL",TEAM: NFL GREEN BAY PACKERS
+#EXTINF:-1 tvg-id="GreenBayPackers.nfl" tvg-name="TEAM: NFL GREEN BAY PACKERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/875f0ff643a2db96e9fd46d12f35e2c2.png" group-title="NFL HD",TEAM: NFL GREEN BAY PACKERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534695
-#EXTINF:-1 tvg-id="HoustonTexans.nfl" tvg-name="TEAM: NFL HOUSTON TEXANS" tvg-logo="http://onlytimewilltell.xyz:2086/images/64b24a9f2530e6cbc9387bd7f745f53a.png" group-title="NFL",TEAM: NFL HOUSTON TEXANS
+#EXTINF:-1 tvg-id="HoustonTexans.nfl" tvg-name="TEAM: NFL HOUSTON TEXANS" tvg-logo="http://onlytimewilltell.xyz:2086/images/64b24a9f2530e6cbc9387bd7f745f53a.png" group-title="NFL HD",TEAM: NFL HOUSTON TEXANS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534696
-#EXTINF:-1 tvg-id="IndianapolisColts.nfl" tvg-name="TEAM: NFL INDIANAPOLIS COLTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42d4adf7f59f39c99cb4da487633596.png" group-title="NFL",TEAM: NFL INDIANAPOLIS COLTS
+#EXTINF:-1 tvg-id="IndianapolisColts.nfl" tvg-name="TEAM: NFL INDIANAPOLIS COLTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42d4adf7f59f39c99cb4da487633596.png" group-title="NFL HD",TEAM: NFL INDIANAPOLIS COLTS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534697
-#EXTINF:-1 tvg-id="JacksonvilleJaguars.nfl" tvg-name="TEAM: NFL JACKSONVILLE JAGUARS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32465a95d457ea860c58519f9db0a58.png" group-title="NFL",TEAM: NFL JACKSONVILLE JAGUARS
+#EXTINF:-1 tvg-id="JacksonvilleJaguars.nfl" tvg-name="TEAM: NFL JACKSONVILLE JAGUARS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b32465a95d457ea860c58519f9db0a58.png" group-title="NFL HD",TEAM: NFL JACKSONVILLE JAGUARS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534698
-#EXTINF:-1 tvg-id="KansasCityChiefs.nfl" tvg-name="TEAM: NFL KANSAS CITY CHIEFS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b4f2a3af5db8e9361be7b1aa2418fde.png" group-title="NFL",TEAM: NFL KANSAS CITY CHIEFS
+#EXTINF:-1 tvg-id="KansasCityChiefs.nfl" tvg-name="TEAM: NFL KANSAS CITY CHIEFS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b4f2a3af5db8e9361be7b1aa2418fde.png" group-title="NFL HD",TEAM: NFL KANSAS CITY CHIEFS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534699
-#EXTINF:-1 tvg-id="LasVegasRaiders.nfl" tvg-name="TEAM: NFL LAS VEGAS RAIDERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d1f5a543d289b4337c27f213e84dca70.png" group-title="NFL",TEAM: NFL LAS VEGAS RAIDERS
+#EXTINF:-1 tvg-id="LasVegasRaiders.nfl" tvg-name="TEAM: NFL LAS VEGAS RAIDERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d1f5a543d289b4337c27f213e84dca70.png" group-title="NFL HD",TEAM: NFL LAS VEGAS RAIDERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534700
-#EXTINF:-1 tvg-id="LosAngelesChargers.nfl" tvg-name="TEAM: NFL LOS ANGELES CHARGERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/04b0576e30f5536ea729a4e0947a2381.png" group-title="NFL",TEAM: NFL LOS ANGELES CHARGERS
+#EXTINF:-1 tvg-id="LosAngelesChargers.nfl" tvg-name="TEAM: NFL LOS ANGELES CHARGERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/04b0576e30f5536ea729a4e0947a2381.png" group-title="NFL HD",TEAM: NFL LOS ANGELES CHARGERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534701
-#EXTINF:-1 tvg-id="LosAngelesRams.nfl" tvg-name="TEAM: NFL LOS ANGELES RAMS" tvg-logo="http://onlytimewilltell.xyz:2086/images/32867a745fb3e677eb2447087b9eb3f2.png" group-title="NFL",TEAM: NFL LOS ANGELES RAMS
+#EXTINF:-1 tvg-id="LosAngelesRams.nfl" tvg-name="TEAM: NFL LOS ANGELES RAMS" tvg-logo="http://onlytimewilltell.xyz:2086/images/32867a745fb3e677eb2447087b9eb3f2.png" group-title="NFL HD",TEAM: NFL LOS ANGELES RAMS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534702
-#EXTINF:-1 tvg-id="MiamiDolphins.nfl" tvg-name="TEAM: NFL MIAMI DOLPHINS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5719b62bd4c7aeac9df70ad9ef2347f4.png" group-title="NFL",TEAM: NFL MIAMI DOLPHINS
+#EXTINF:-1 tvg-id="MiamiDolphins.nfl" tvg-name="TEAM: NFL MIAMI DOLPHINS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5719b62bd4c7aeac9df70ad9ef2347f4.png" group-title="NFL HD",TEAM: NFL MIAMI DOLPHINS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534703
-#EXTINF:-1 tvg-id="MinnesotaVikings.nfl" tvg-name="TEAM: NFL MINNESOTA VIKINGS" tvg-logo="http://onlytimewilltell.xyz:2086/images/6fd7612d6cd37717f6ccb8570571fc11.png" group-title="NFL",TEAM: NFL MINNESOTA VIKINGS
+#EXTINF:-1 tvg-id="MinnesotaVikings.nfl" tvg-name="TEAM: NFL MINNESOTA VIKINGS" tvg-logo="http://onlytimewilltell.xyz:2086/images/6fd7612d6cd37717f6ccb8570571fc11.png" group-title="NFL HD",TEAM: NFL MINNESOTA VIKINGS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534704
-#EXTINF:-1 tvg-id="NewEnglandPatriots.nfl" tvg-name="TEAM: NFL NEW ENGLAND PATRIOTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/aea2d7ca1cf45aaa179764d60882b48b.png" group-title="NFL",TEAM: NFL NEW ENGLAND PATRIOTS
+#EXTINF:-1 tvg-id="NewEnglandPatriots.nfl" tvg-name="TEAM: NFL NEW ENGLAND PATRIOTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/aea2d7ca1cf45aaa179764d60882b48b.png" group-title="NFL HD",TEAM: NFL NEW ENGLAND PATRIOTS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534705
-#EXTINF:-1 tvg-id="NewOrleansSaints.nfl" tvg-name="TEAM: NFL NEW ORLEANS SAINTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d378d159f308ed474da16b7fc5607856.png" group-title="NFL",TEAM: NFL NEW ORLEANS SAINTS
+#EXTINF:-1 tvg-id="NewOrleansSaints.nfl" tvg-name="TEAM: NFL NEW ORLEANS SAINTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d378d159f308ed474da16b7fc5607856.png" group-title="NFL HD",TEAM: NFL NEW ORLEANS SAINTS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534706
-#EXTINF:-1 tvg-id="NewYorkGiants.nfl" tvg-name="TEAM: NFL NEW YORK GIANTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3ebd231a94ad06196869268c69d57de.png" group-title="NFL",TEAM: NFL NEW YORK GIANTS
+#EXTINF:-1 tvg-id="NewYorkGiants.nfl" tvg-name="TEAM: NFL NEW YORK GIANTS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a3ebd231a94ad06196869268c69d57de.png" group-title="NFL HD",TEAM: NFL NEW YORK GIANTS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534707
-#EXTINF:-1 tvg-id="NewYorkJets.nfl" tvg-name="TEAM: NFL NEW YORK JETS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5ce65a393d3e613974dd993ac891e59e.png" group-title="NFL",TEAM: NFL NEW YORK JETS
+#EXTINF:-1 tvg-id="NewYorkJets.nfl" tvg-name="TEAM: NFL NEW YORK JETS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5ce65a393d3e613974dd993ac891e59e.png" group-title="NFL HD",TEAM: NFL NEW YORK JETS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534708
-#EXTINF:-1 tvg-id="PhiladelphiaEagles.nfl" tvg-name="TEAM: NFL PHILADELPHIA EAGLES" tvg-logo="http://onlytimewilltell.xyz:2086/images/639d4c589be27260f30facdf7b1535b5.png" group-title="NFL",TEAM: NFL PHILADELPHIA EAGLES
+#EXTINF:-1 tvg-id="PhiladelphiaEagles.nfl" tvg-name="TEAM: NFL PHILADELPHIA EAGLES" tvg-logo="http://onlytimewilltell.xyz:2086/images/639d4c589be27260f30facdf7b1535b5.png" group-title="NFL HD",TEAM: NFL PHILADELPHIA EAGLES
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534709
-#EXTINF:-1 tvg-id="PittsburghSteelers.nfl" tvg-name="TEAM: NFL PITTSBURGH STEELERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/272937e37a2e7f0e5c0b056806e8e690.png" group-title="NFL",TEAM: NFL PITTSBURGH STEELERS
+#EXTINF:-1 tvg-id="PittsburghSteelers.nfl" tvg-name="TEAM: NFL PITTSBURGH STEELERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/272937e37a2e7f0e5c0b056806e8e690.png" group-title="NFL HD",TEAM: NFL PITTSBURGH STEELERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534710
-#EXTINF:-1 tvg-id="SanFrancisco49ers.nfl" tvg-name="TEAM: NFL SAN FRANCISCO 49ERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2620fd4a77a9e2e7bf9c7a355cb2ef56.png" group-title="NFL",TEAM: NFL SAN FRANCISCO 49ERS
+#EXTINF:-1 tvg-id="SanFrancisco49ers.nfl" tvg-name="TEAM: NFL SAN FRANCISCO 49ERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/2620fd4a77a9e2e7bf9c7a355cb2ef56.png" group-title="NFL HD",TEAM: NFL SAN FRANCISCO 49ERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534711
-#EXTINF:-1 tvg-id="SeattleSeahawks.nfl" tvg-name="TEAM: NFL SEATTLE SEAHAWKS" tvg-logo="http://onlytimewilltell.xyz:2086/images/9230a8bcc38bcc499d779857fca967aa.png" group-title="NFL",TEAM: NFL SEATTLE SEAHAWKS
+#EXTINF:-1 tvg-id="SeattleSeahawks.nfl" tvg-name="TEAM: NFL SEATTLE SEAHAWKS" tvg-logo="http://onlytimewilltell.xyz:2086/images/9230a8bcc38bcc499d779857fca967aa.png" group-title="NFL HD",TEAM: NFL SEATTLE SEAHAWKS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534712
-#EXTINF:-1 tvg-id="TampaBayBuccaneers.nfl" tvg-name="TEAM: NFL TAMPA BAY BUCCANEERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff606738d83126297c409cf113c15768.png" group-title="NFL",TEAM: NFL TAMPA BAY BUCCANEERS
+#EXTINF:-1 tvg-id="TampaBayBuccaneers.nfl" tvg-name="TEAM: NFL TAMPA BAY BUCCANEERS" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff606738d83126297c409cf113c15768.png" group-title="NFL HD",TEAM: NFL TAMPA BAY BUCCANEERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534713
-#EXTINF:-1 tvg-id="TennesseeTitans.nfl" tvg-name="TEAM: NFL TENNESSEE TITANS" tvg-logo="http://onlytimewilltell.xyz:2086/images/21bf0916a710dc040102dc0fc4a79bc7.png" group-title="NFL",TEAM: NFL TENNESSEE TITANS
+#EXTINF:-1 tvg-id="TennesseeTitans.nfl" tvg-name="TEAM: NFL TENNESSEE TITANS" tvg-logo="http://onlytimewilltell.xyz:2086/images/21bf0916a710dc040102dc0fc4a79bc7.png" group-title="NFL HD",TEAM: NFL TENNESSEE TITANS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534714
-#EXTINF:-1 tvg-id="WashingtonCommanders.nfl" tvg-name="TEAM: NFL WASHINGTON COMMANDERS" tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/Washington-Commanders-Logo.png" group-title="NFL",TEAM: NFL WASHINGTON COMMANDERS
+#EXTINF:-1 tvg-id="WashingtonCommanders.nfl" tvg-name="TEAM: NFL WASHINGTON COMMANDERS" tvg-logo="https://1000logos.net/wp-content/uploads/2022/02/Washington-Commanders-Logo.png" group-title="NFL HD",TEAM: NFL WASHINGTON COMMANDERS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/534715
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="-NFL Network" tvg-logo="http://pluspng.com/img-png/nfl-logo-vector-png-file-nfl-network-logo-svg-wikipedia-the-free-encyclopedia-986.png" group-title="NFL",-NFL Network
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="-NFL Network" tvg-logo="http://pluspng.com/img-png/nfl-logo-vector-png-file-nfl-network-logo-svg-wikipedia-the-free-encyclopedia-986.png" group-title="NFL HD",-NFL Network
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/661513
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="-NFL Redzone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="NFL",-NFL Redzone
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="-NFL Redzone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="NFL HD",-NFL Redzone
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/661514
-#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="-NFL Redzone SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="NFL",-NFL Redzone SD
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="-NFL Redzone SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/NFL_Network_Redzone.png" group-title="NFL HD",-NFL Redzone SD
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/661531
-#EXTINF:-1 tvg-id="" tvg-name="NFL 01: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 01: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 01: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 01: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671716
-#EXTINF:-1 tvg-id="" tvg-name="NFL 02: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 02: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 02: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 02: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671717
-#EXTINF:-1 tvg-id="" tvg-name="NFL 03: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 03: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 03: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 03: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671718
-#EXTINF:-1 tvg-id="" tvg-name="NFL 04: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 04: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 04: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 04: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671719
-#EXTINF:-1 tvg-id="" tvg-name="NFL 05: 8PM " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 05: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 05: 8PM " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 05: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671720
-#EXTINF:-1 tvg-id="" tvg-name="NFL 06: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 06: 
+#EXTINF:-1 tvg-id="" tvg-name="NFL 06: " tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 06: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671721
-#EXTINF:-1 tvg-id="" tvg-name="NFL 07: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 07: 1PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 07: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 07: 1PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671722
-#EXTINF:-1 tvg-id="" tvg-name="NFL 08: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 08: 1PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 08: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 08: 1PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671723
-#EXTINF:-1 tvg-id="" tvg-name="NFL 09: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 09: 1PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 09: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 09: 1PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671724
-#EXTINF:-1 tvg-id="" tvg-name="NFL 10: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 10: 1PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 10: 1PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 10: 1PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671725
-#EXTINF:-1 tvg-id="" tvg-name="NFL 11: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 11: 4:25PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 11: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 11: 4:25PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671726
-#EXTINF:-1 tvg-id="" tvg-name="NFL 12: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 12: 4:25PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 12: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 12: 4:25PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671727
-#EXTINF:-1 tvg-id="" tvg-name="NFL 13: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 13: 4:25PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 13: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 13: 4:25PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671728
-#EXTINF:-1 tvg-id="" tvg-name="NFL 14: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 14: 4:25PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 14: 4:25PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671729
-#EXTINF:-1 tvg-id="" tvg-name="NFL 15: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 15: 4:25PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15: 4:25PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 15: 4:25PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671730
-#EXTINF:-1 tvg-id="" tvg-name="NFL 16: 8:20PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL",NFL 16: 8:20PM
+#EXTINF:-1 tvg-id="" tvg-name="NFL 16: 8:20PM" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/05/NFL-Gamepass.png" group-title="NFL HD",NFL 16: 8:20PM
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671731
 #EXTINF:-1 tvg-id="" tvg-name="NCAAF 001 " tvg-logo="https://seeklogo.com/images/N/ncaa-football-logo-36487E0FA2-seeklogo.com.png" group-title="NCAA FOOTBALL",NCAAF 001 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/671957
@@ -2296,8 +2296,6 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418213
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418206
 #EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: YES NETWORK" tvg-logo="https://www.mlbstatic.com/yesnetwork/assets/images/yes_logo.png" group-title="USA SPORTS HD",US: YES NETWORK
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DraftKings" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Draftkings-logo-vertical.png/revision/latest?cb=20150926011726" group-title="CANADA HD",DraftKings
-https://live571.delivery.roku.com/9f5c2c51-4bc2-4778-9d54-70d48fdae73e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="CANADA HD",CA: A&E
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418411
 #EXTINF:-1 tvg-id="abcwkbw.us" tvg-name="CA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/150px-ABC_%282013%29_Dark_Grey.svg.png" group-title="CANADA HD",CA: ABC
@@ -2438,6 +2436,8 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418456
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418457
 #EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA: Documentary (E)" tvg-logo="https://i.ibb.co/qrKX5vf/documentary-channel.png" group-title="CANADA HD",CA: Documentary (E)
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/423723
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DraftKings" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Draftkings-logo-vertical.png/revision/latest?cb=20150926011726" group-title="CANADA HD",DraftKings
+https://live571.delivery.roku.com/9f5c2c51-4bc2-4778-9d54-70d48fdae73e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA: DTour HD" tvg-logo="https://i.ibb.co/K6P8tP2/dtour.png" group-title="CANADA HD",CA: DTour HD
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418649
 #EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E!" tvg-logo="https://i.ibb.co/wgBYsrz/e-entertainment.png" group-title="CANADA HD",CA: E!
@@ -2496,6 +2496,10 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418486
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418487
 #EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA: MAKEFUL" tvg-logo="https://i.ibb.co/vYFZvVF/makeful-ca.png" group-title="CANADA HD",CA: MAKEFUL
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418488
+#EXTINF:-1 tvg-id="metv.us" tvg-name="CA: ME TV" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/11/metv-2.png" group-title="CANADA HD",CA: ME TV
+http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/417978
+#EXTINF:-1 tvg-id="metvplus.us" tvg-name="CA: ME TV PLUS" tvg-logo="" group-title="CANADA HD",CA: ME TV PLUS
+http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/672065
 #EXTINF:-1 tvg-id="themiraclechannel.ca" tvg-name="CA: MIRACLE (D)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/miracle-channel-ca.png" group-title="CANADA HD",CA: MIRACLE (D)
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/423729
 #EXTINF:-1 tvg-id="CA: MSNBC" tvg-name="CA: MSNBC (E)" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/08/msnbc_logo.png" group-title="CANADA HD",CA: MSNBC (E)
