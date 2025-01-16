@@ -74,7 +74,6 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530985
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530986
 #EXTINF:-1 tvg-id="WinnipegJets.nhl" tvg-name="NHL: WINNIPEG JETS" tvg-logo="https://nhltv.nhl.com/image/240x240/f770fb7a-f38b-4872-a35b-5a20b1f22eb6.png?v=20220510205708" group-title="NHL",NHL: WINNIPEG JETS
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/530987
-
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 00: tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 00: 
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/670057
 #EXTINF:-1 tvg-id="" tvg-name="USA | NHL Game 01:" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png" group-title="NHL",USA | NHL Game 01: 
@@ -2297,7 +2296,7 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418213
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418206
 #EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: YES NETWORK" tvg-logo="https://www.mlbstatic.com/yesnetwork/assets/images/yes_logo.png" group-title="USA SPORTS HD",US: YES NETWORK
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DraftKings" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Draftkings-logo-vertical.png/revision/latest?cb=20150926011726" group-title="CANADA HD",DraftKings
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DraftKings" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Draftkings-logo-vertical.png/revision/latest?cb=20150926011726" group-title="CANADA HD",DraftKings
 https://live571.delivery.roku.com/9f5c2c51-4bc2-4778-9d54-70d48fdae73e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/biogra.png" group-title="CANADA HD",CA: A&E
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418411
@@ -2589,7 +2588,7 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418513
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418514
 #EXTINF:-1 tvg-id="turnerclassicmovies.ca" tvg-name="CA: TCM (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="CANADA HD",CA: TCM (E)
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/423769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Pet Collective" tvg-logo="" group-title="CANADA HD",Pet Collective
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Pet Collective" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="CANADA HD",Pet Collective
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: WEATHER Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="CANADA HD",CA: WEATHER Network
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418523
