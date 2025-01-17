@@ -2532,6 +2532,8 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418510
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/423735
 #EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA: PEACHTree" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/1200px-WPCH-TV_logo.svg.png" group-title="CANADA HD",CA: PEACHTree
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Pet Collective" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="CANADA HD",CA: Pet Collective
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="theshoppingchannel.ca" tvg-name="CA: SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/TSC_2017_logo.png" group-title="CANADA HD",CA: SHOPPING
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418505
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/150px-Showcase_Logo_2015.png" group-title="CANADA HD",CA: SHOWCASE
@@ -2592,8 +2594,6 @@ http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418513
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418514
 #EXTINF:-1 tvg-id="turnerclassicmovies.ca" tvg-name="CA: TCM (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="CANADA HD",CA: TCM (E)
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/423769
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Pet Collective" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="CANADA HD",CA: Pet Collective
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: WEATHER Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="CANADA HD",CA: WEATHER Network
 http://23.227.140.75:3050/alexabukovac@gmail.com/mfRmtwS3Bg/418523
 #EXTINF:-1 tvg-id="ATNCricketPlus.ca" tvg-name="CA: ATN Cricket Plus" tvg-logo="https://campaign-image.com/zohocampaigns/279273000000261004_zc_v2_untitled_1.png" group-title="CANADA SPORTS HD",CA: ATN Cricket Plus
