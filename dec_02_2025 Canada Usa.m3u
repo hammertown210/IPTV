@@ -964,12 +964,15 @@ http://185.134.22.150:8080/5170474077/7uzGHY/41837
 http://185.134.22.150:8080/5170474077/7uzGHY/1197
 #EXTINF:-1 tvg-id="gametv.ca" tvg-name="CA | GAME TV" tvg-logo="https://pbs.twimg.com/profile_images/507618370573721600/-y60oYKj_400x400.jpeg" group-title="CANADA",CA | GAME TV
 http://185.134.22.150:8080/5170474077/7uzGHY/34825
-#EXTINF:-1 tvg-id="globalontario.ca" tvg-name="CA | GLOBAL" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/GLOBAL.png" group-title="CANADA",CA | GLOBAL
+#EXTINF:-1 tvg-id="globalontario.ca" tvg-name="CA | GLOBAL NEWS" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/GLOBAL.png" group-title="CANADA",CA | GLOBAL NEWS
 http://185.134.22.150:8080/5170474077/7uzGHY/1191
 
-#EXTINF:-1 tvg-id="global-network" tvg-name="CA | GLOBAL NATIONAL" tvg-logo="https://pbs.twimg.com/profile_images/378800000469913105/a33975ef68b3b20423736733b0ea1dbe_400x400.jpeg" group-title="CANADA",CA | GLOBAL NATIONAL
-http://185.134.22.150:8080/5170474077/7uzGHY/53174
-#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA | GLOBAL TORONTO" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/global_toronto_0.png" group-title="CANADA",CA | GLOBAL TORONTO
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA | Global TV Toronto HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcWM-e3GnmHvoFfmg9uQcQTmB1u6dNnE50g&s" group-title="CANADA",CA | Global TV Toronto HD
+http://23.227.140.75:8880/live/alexabukovac@gmail.com/mfRmtwS3Bg/418474.ts
+
+
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA | GLOBAL TV TORONTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcWM-e3GnmHvoFfmg9uQcQTmB1u6dNnE50g&s" group-title="CANADA",CA | GLOBAL TV TORONTO
 http://185.134.22.150:8080/5170474077/7uzGHY/1193
 
 #EXTINF:-1 tvg-id="hbo1.ca" tvg-name="CA | HBO" tvg-logo="https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="CANADA",CA | HBO
@@ -987,7 +990,7 @@ http://185.134.22.150:8080/5170474077/7uzGHY/53177
 #EXTINF:-1 tvg-id="leafstv.ca" tvg-name="CA | LEAFS NATION NETWORK" tvg-logo="https://i.imgur.com/hlKs3MC.gif" group-title="CANADA",CA | LEAFS NATION NETWORK
 http://185.134.22.150:8080/5170474077/7uzGHY/62238
 #EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA | LIFETIME" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/06/lifetime-logo.jpg" group-title="CANADA",CA | LIFETIME
-#EXTINF:-1 tvg-id="MeTV.us" tvg-name="CA | ME TV" tvg-logo="https://i.ibb.co/KFY3P68/me-tv.png" group-title="CANADA",CA | ME TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA | ME TV" tvg-logo="https://i.ibb.co/KFY3P68/me-tv.png" group-title="CANADA",CA | ME TV
 http://185.134.22.150:8080/5170474077/7uzGHY/6446
 
 #EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA | MOVIETIME" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movietime.png" group-title="CANADA",CA | MOVIETIME
@@ -1008,7 +1011,8 @@ http://185.134.22.150:8080/5170474077/7uzGHY/41830
 http://185.134.22.150:8080/5170474077/7uzGHY/1171
 #EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA | PEACHTREE" tvg-logo="https://i.ibb.co/fHW9vN2/peachtree.png" group-title="CANADA",CA | PEACHTREE
 http://185.134.22.150:8080/5170474077/7uzGHY/41836
-
+#EXTINF:-1 tvg-id="CA: Pet Collective" tvg-name="CA | Pet Collective" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="CANADA",CA | Pet Collective
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA | SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Showcase_Logo_2015.png" group-title="CANADA",CA | SHOWCASE
 http://185.134.22.150:8080/5170474077/7uzGHY/7854
 #EXTINF:-1 tvg-id="CA: Silver Screen Classics" tvg-name="CA | SILVER SCREEN CLASSICS" tvg-logo="https://www.silverscreenclassics.com/images/SSC_Logo_Home.jpg" group-title="CANADA",CA | SILVER SCREEN CLASSICS
