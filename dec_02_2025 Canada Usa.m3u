@@ -39,44 +39,9 @@ http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1354220&exten
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="NHL PACKAGE",NHL LIVE| 18 -
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1354221&extension=ts&play_token=m3Dz7ItxAw
 
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY INFO HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040624&extension=ts&play_token=CQGdRXHLCO
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY HIGHLIGHTS HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040623&extension=ts&play_token=onmg1K2UPC
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 1 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040622&extension=ts&play_token=0mxKpkhaF1
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 2 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040621&extension=ts&play_token=zGvuCxx6Gu
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 3 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040620&extension=ts&play_token=0mxfTRPfo6
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 4 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040619&extension=ts&play_token=LZO5QzoFzn
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 5 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040618&extension=ts&play_token=AeaK08xPou
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 6 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040617&extension=ts&play_token=LIvmYDyM3R
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 7 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040616&extension=ts&play_token=h4aEMmzUpT
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 8 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040615&extension=ts&play_token=x6rgxDSFnj
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 9 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040614&extension=ts&play_token=xzQrm9eg1y
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 10 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040613&extension=ts&play_token=ooxUc7PV8k
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 11 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040612&extension=ts&play_token=f5JT0QeIQK
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 12 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040611&extension=ts&play_token=UFomcASEOF
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 13 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040610&extension=ts&play_token=Gr8Dj09pgc
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 14 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040609&extension=ts&play_token=qhGqajfENb
-#EXTINF:-1 tvg-logo="https://iili.io/t1DLqx.md.png" group-title="NHL PACKAGE",NHL REPLAY 15 HD
-http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=1040608&extension=ts&play_token=a78ZO2w8ry
-
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-ANAHEIM-DUCKS.png" group-title="NHL PACKAGE",NHL TEAM| ANAHEIM DUCKS
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=836405&extension=ts&play_token=4kwfLGJNpZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-ARIZONA-COYOTES.png" group-title="NHL PACKAGE",NHL TEAM| ARIZONA COYOTES
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/news/2025/02/utah-hockey-club-logos-leaked-mammoth-outlaws-yeti-sportslogosnet.jpg" group-title="NHL PACKAGE",NHL TEAM| UTAH Hockey Club
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=836404&extension=ts&play_token=FsP9lLyzgh
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-BOSTON-BRUINS.png" group-title="NHL PACKAGE",NHL TEAM| BOSTON BRUINS
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:12:A8:77&stream=836403&extension=ts&play_token=BYmQt6Q6Hx
@@ -612,7 +577,7 @@ http://fortv.cc:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/57393.m3u8
 #EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA | CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="CANADA",CA | CITY TV
 http://185.134.22.150:8080/5170474077/7uzGHY/1230
 
-#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA | CITY TV TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_of_CITY_TV.png" group-title="CANADA",CA | CITY TV TORONTO
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA | CITY TV TORONTO" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.MhODtlXbB4No3Xe6sZ8YKgHaE0&pid=Api&P=0&h=180" group-title="CANADA",CA | CITY TV TORONTO
 http://185.134.22.150:8080/5170474077/7uzGHY/1232
 
 #EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA | CMT" tvg-logo="https://www.savingcountrymusic.com/wp-content/uploads/2012/01/cmt-logo.jpg" group-title="CANADA",CA | CMT
@@ -622,7 +587,7 @@ http://185.134.22.150:8080/5170474077/7uzGHY/1227
 
 #EXTINF:-1 tvg-id="CA: Cottage Life" tvg-name="CA | COTTAGE LIFE" tvg-logo="https://pbs.twimg.com/profile_images/519480778774683648/WlxGBRQy_400x400.png" group-title="CANADA",CA | COTTAGE LIFE
 http://185.134.22.150:8080/5170474077/7uzGHY/1224
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA | CP24" tvg-logo="https://www.cp24.com/polopoly_fs/1.1560026.1386272764!/httpImage/image.png_gen/derivatives/landscape_620/image.png" group-title="CANADA",CA | CP24
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA | CP24" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="CANADA",CA | CP24
 http://185.134.22.150:8080/5170474077/7uzGHY/1223
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA | CP24" tvg-logo="https://www.cp24.com/polopoly_fs/1.1560026.1386272764!/httpImage/image.png_gen/derivatives/landscape_620/image.png" group-title="CANADA",CA | CP24
 http://185.134.22.150:8080/live/4342383528/VZhZx5/1223.ts
@@ -697,7 +662,9 @@ http://185.134.22.150:8080/5170474077/7uzGHY/1187
 #EXTINF:-1 tvg-id="hln.ca" tvg-name="CA | HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/225px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="CANADA",CA | HLN
 http://185.134.22.150:8080/5170474077/7uzGHY/53177
 
-#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA | LIFETIME" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/06/lifetime-logo.jpg" group-title="CANADA",CA | LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="CA | Love Pets" tvg-logo="" group-title="CANADA",Love Pets
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65265dada6c3830008942a0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8de1032a-71e8-4216-8110-72f35187d9fa&serverSideAds=false&checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA | ME TV" tvg-logo="https://i.ibb.co/KFY3P68/me-tv.png" group-title="CANADA",CA | ME TV
 http://185.134.22.150:8080/5170474077/7uzGHY/6446
 
@@ -711,6 +678,14 @@ http://185.134.22.150:8080/5170474077/7uzGHY/1171
 http://185.134.22.150:8080/5170474077/7uzGHY/41836
 #EXTINF:-1 tvg-id="CA: Pet Collective" tvg-name="CA | Pet Collective" tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="CANADA",CA | Pet Collective
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="CA: Pet Parade" tvg-name="CA | Pet Parade" tvg-logo="https://i.imgur.com/oGE1MOP.png" group-title="CANADA",CA TVS Pet Parade Network (360p)
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="CA: Pluto TV Cars" tvg-name="CA | Pluto TV Cars" tvg-logo="https://pbs.twimg.com/media/Dhx5ZBBUcAAclaX?format=jpg&name=small" group-title="CANADA",CA Pluto TV Cars
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac635-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e10e6442-1bdd-450d-8be9-71cd95a40f10&checkedby:iptvcat.com
+
+
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA | SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Showcase_Logo_2015.png" group-title="CANADA",CA | SHOWCASE
 http://185.134.22.150:8080/5170474077/7uzGHY/7854
 
@@ -718,7 +693,6 @@ http://185.134.22.150:8080/5170474077/7uzGHY/7854
 http://185.134.22.150:8080/5170474077/7uzGHY/41831
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA | SMITHSONIAN CHANNEL" tvg-logo="http://iptvboss.xyz/logos/CAN_Networks_Sports/SmithsonianChannel.ca.png" group-title="CANADA",CA | SMITHSONIAN CHANNEL
 http://185.134.22.150:8080/5170474077/7uzGHY/41832
-
 #EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA | SPORTSNET (EAST)" tvg-logo="https://home.uniserve.com/wp-content/uploads/2019/04/SportsnetEast.png" group-title="CANADA",CA | SPORTSNET (EAST)
 http://185.134.22.150:8080/5170474077/7uzGHY/1164
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA | SPORTSNET (WEST)" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" group-title="CANADA",CA | SPORTSNET (WEST)
